@@ -4,7 +4,7 @@ metadata:
   name: userinfo-config
   namespace: rony-hms
 data:
-  SPRING_DATASOURCE_URL: jdbc:mysql://mysqldatabase.chy04ookq6nu.ap-south-1.rds.amazonaws.com:3306/userdb
+  SPRING_DATASOURCE_URL: jdbc:mysql://my-sql-database-1.chy04ookq6nu.ap-south-1.rds.amazonaws.com:3306/userdb
 
   EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: http://eureka-service:8761/eureka
 

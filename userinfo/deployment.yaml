@@ -20,7 +20,7 @@ spec:
       containers:
       - name: userinfo
 
-        image: 816069140701.dkr.ecr.ap-south-1.amazonaws.com/restaurant/userrepo:1.0.1
+        image: 816069140701.dkr.ecr.ap-south-1.amazonaws.com/rony-hms/userinfo-service:v1.0.0
 
         imagePullPolicy: Always
 
